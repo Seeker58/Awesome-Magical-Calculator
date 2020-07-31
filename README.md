@@ -8,4 +8,4 @@ A fully functional calculator programmed using Python
 - Can combine multiple mathematical operations in a single command
 - Is awesome and pretty magical 
 
-![board](pngegg.png)
+![board](docs/pngegg.png)
